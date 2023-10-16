@@ -1,52 +1,69 @@
 # PYTHON - for everything
+---
+## Basic knowledge 
+---
+![1  Print](https://github.com/denuwan-yasodhana/python/assets/110303643/2933d687-2806-44dd-be5d-55f67fc1e27c)
+![2  Comment](https://github.com/denuwan-yasodhana/python/assets/110303643/125956dd-eba6-493d-825f-ce458d9dd46b)
+![3](https://github.com/denuwan-yasodhana/python/assets/110303643/b39d54c8-6a10-46ba-81e4-993ecece9b00)
+![4](https://github.com/denuwan-yasodhana/python/assets/110303643/c1ea37cc-6268-4bc3-8a86-8ccaa9a2ef5f)
+![5](https://github.com/denuwan-yasodhana/python/assets/110303643/125095cf-d151-48da-a8ed-2173fc69bfb7)
+![6](https://github.com/denuwan-yasodhana/python/assets/110303643/1fdf654a-89a9-493d-b34d-91d92428f6d1)
+![7](https://github.com/denuwan-yasodhana/python/assets/110303643/945c6286-903e-41bf-942c-51723bc49955)
+![8](https://github.com/denuwan-yasodhana/python/assets/110303643/dc9b52a4-16b7-40d3-9dc7-670d931502d0)
+![9](https://github.com/denuwan-yasodhana/python/assets/110303643/94a290de-f600-43cf-b9a4-6048a618178d)
+![10](https://github.com/denuwan-yasodhana/python/assets/110303643/1b6e6035-061a-4313-a20e-7431160575da)
+![10](https://github.com/denuwan-yasodhana/python/assets/110303643/50d4635f-c090-424a-a397-73fbb35e8f9c)
+![20](https://github.com/denuwan-yasodhana/python/assets/110303643/4169c545-a4e3-4aaf-8188-1c4b235f5531)
+![19](https://github.com/denuwan-yasodhana/python/assets/110303643/96dbe97f-6b45-4c22-9987-3f7623dd3b99)
+![18](https://github.com/denuwan-yasodhana/python/assets/110303643/25fbf818-4219-48fa-8825-84da02a63248)
+![17](https://github.com/denuwan-yasodhana/python/assets/110303643/456b03a5-bc33-4973-aecf-4166940f8354)
+![16](https://github.com/denuwan-yasodhana/python/assets/110303643/57a6767e-00c0-4be5-b514-ae9d7b08d306)
+![15](https://github.com/denuwan-yasodhana/python/assets/110303643/dcad498e-e4ad-4b2c-af76-ccadfbe06401)
+![14](https://github.com/denuwan-yasodhana/python/assets/110303643/b6bada70-3683-42ba-b338-c46a7defc6b1)
+![13](https://github.com/denuwan-yasodhana/python/assets/110303643/36e9b1cf-a88c-402d-ad8a-fb4b6af27057)
+![12](https://github.com/denuwan-yasodhana/python/assets/110303643/9b0a23d3-eecb-4a96-beac-3d4fc8b0fc89)
+![11](https://github.com/denuwan-yasodhana/python/assets/110303643/3c660833-e9d1-4be8-a409-290be000936a)
+![38](https://github.com/denuwan-yasodhana/python/assets/110303643/a982d980-9646-4493-8fc8-562c7f770ec8)
+![37](https://github.com/denuwan-yasodhana/python/assets/110303643/e3511daa-be53-4907-8385-8b32fc99f98b)
+![36](https://github.com/denuwan-yasodhana/python/assets/110303643/619d8bb7-4c13-43ab-923f-7fe4da54dc1e)
+![35](https://github.com/denuwan-yasodhana/python/assets/110303643/2576f0f2-1c59-40fd-a539-f5612a9fdbf2)
+![34](https://github.com/denuwan-yasodhana/python/assets/110303643/fa08e623-c64b-4451-9a3e-2a1ca5cc0532)
+![33](https://github.com/denuwan-yasodhana/python/assets/110303643/4914db8f-3ba9-441e-b6c9-2c21f32a76dd)
+![32](https://github.com/denuwan-yasodhana/python/assets/110303643/6c6f44d3-94cd-4fe8-bfcb-04374c40bc0b)
+![31](https://github.com/denuwan-yasodhana/python/assets/110303643/941eb053-98b5-474b-8d41-4078468a31cf)
+![30](https://github.com/denuwan-yasodhana/python/assets/110303643/c01b4919-bad6-48dd-b773-ce078a2c9c10)
+![29](https://github.com/denuwan-yasodhana/python/assets/110303643/1f1f6951-2cfb-4666-b966-6e99b533396e)
+![28](https://github.com/denuwan-yasodhana/python/assets/110303643/e934db6d-71bc-4fca-8dfb-0025aac753ed)
+![27](https://github.com/denuwan-yasodhana/python/assets/110303643/76c8c9c7-e171-4c15-af6a-65850182f5af)
+![26](https://github.com/denuwan-yasodhana/python/assets/110303643/d64d70d1-9b0e-40a6-8d17-840691326216)
+![25](https://github.com/denuwan-yasodhana/python/assets/110303643/6fb339dc-a2e2-4fd0-9745-e60d0e3d5e1d)
+![24](https://github.com/denuwan-yasodhana/python/assets/110303643/88276930-7439-480a-b65d-7fd7dea0759f)
+![23](https://github.com/denuwan-yasodhana/python/assets/110303643/6e18b957-7468-499b-9c30-d9755555feeb)
+![22](https://github.com/denuwan-yasodhana/python/assets/110303643/4cb711fb-2fb9-4fdc-b7ad-366910e36d9d)
+![21](https://github.com/denuwan-yasodhana/python/assets/110303643/938f083e-3268-4d90-8354-8591418b5e38)
+![39](https://github.com/denuwan-yasodhana/python/assets/110303643/89e39cf8-d427-4d2f-aa6d-c13020a4382f)
 
-[Numpy_Cheat_Sheet.pdf](https://github.com/denuwan-yasodhana/python/files/12910280/Numpy_Cheat_Sheet.pdf)
+---
+## Numpy Cheat Sheet
+---
+![Numpy_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/cb19ed41-7303-4ed7-8c14-6088ece9251e)
 
-[Pandas_Cheat_Sheet.pdf](https://github.com/denuwan-yasodhana/python/files/12910281/Pandas_Cheat_Sheet.pdf)
+---
+## Pandas Cheat Sheet
+---
+![Pandas_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/100aa4f9-1d88-429e-8bff-3e0a398fdf83)
 
-[Matplotlib_Cheat_Sheet.pdf](https://github.com/denuwan-yasodhana/python/files/12910283/Matplotlib_Cheat_Sheet.pdf)
+---
+## Matplotlib Cheat Sheet
+---
+![Matplotlib_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/666a4894-019e-479e-8689-4c694224c5cc)
 
-[Data_Wrangling_Cheat_Sheet.pdf](https://github.com/denuwan-yasodhana/python/files/12910284/Data_Wrangling_Cheat_Sheet.pdf)
+---
+## Data Wragling Cheat Sheet
+---
+![Data_Wrangling_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/ef9ae4c3-363b-450a-8851-96a4e653ed8e)
 
-[SciPy_Cheat_Sheet.pdf](https://github.com/denuwan-yasodhana/python/files/12910285/SciPy_Cheat_Sheet.pdf)
-
-![28](https://github.com/denuwan-yasodhana/python/assets/110303643/d55beb0a-9d3b-4d61-9949-958ba623ed90)
-![27](https://github.com/denuwan-yasodhana/python/assets/110303643/13ea0b7e-a4f0-494e-b623-058141823386)
-![26](https://github.com/denuwan-yasodhana/python/assets/110303643/1797191a-ff80-4e76-90a7-e10af8c18676)
-![25](https://github.com/denuwan-yasodhana/python/assets/110303643/7d579899-50ad-484c-93d4-a751413b00d3)
-![24](https://github.com/denuwan-yasodhana/python/assets/110303643/8a3de081-62e1-4ab9-88c9-02529085f7d2)
-![23](https://github.com/denuwan-yasodhana/python/assets/110303643/824c9c49-ea79-43a7-bedb-58cabd4d300c)
-![22](https://github.com/denuwan-yasodhana/python/assets/110303643/9641fed5-0888-48bb-9cd8-f70bab2549fd)
-![21](https://github.com/denuwan-yasodhana/python/assets/110303643/be92ecaa-ccf7-48b7-9b4f-6aa49808c627)
-![20](https://github.com/denuwan-yasodhana/python/assets/110303643/1bf71026-0826-47d1-96e2-84ab982bccc0)
-![19](https://github.com/denuwan-yasodhana/python/assets/110303643/6ec60a93-e565-450a-8520-07b1634488f9)
-![18](https://github.com/denuwan-yasodhana/python/assets/110303643/f040a4a3-954c-46cf-81d1-6144b9fd0353)
-![17](https://github.com/denuwan-yasodhana/python/assets/110303643/3f6d632b-46e4-4520-9cf2-00e48b465b29)
-![16](https://github.com/denuwan-yasodhana/python/assets/110303643/5e3d38bf-6860-4a79-9d98-7ab6afa520e7)
-![15](https://github.com/denuwan-yasodhana/python/assets/110303643/bc141836-7e64-4786-bdb3-cbd6abfd4f13)
-![14](https://github.com/denuwan-yasodhana/python/assets/110303643/e1cc73c5-7645-4638-b804-3949d2fa35bb)
-![13](https://github.com/denuwan-yasodhana/python/assets/110303643/b054b4f3-8d08-4733-8b07-55ad25d05195)
-![12](https://github.com/denuwan-yasodhana/python/assets/110303643/837c2045-1d0e-4cf9-8055-89d4e2f8f1d9)
-![11](https://github.com/denuwan-yasodhana/python/assets/110303643/21671ba5-7033-42de-8216-72d674eaf43b)
-![10](https://github.com/denuwan-yasodhana/python/assets/110303643/19d0aab0-f1db-4d24-877f-87126e3357fd)
-![9](https://github.com/denuwan-yasodhana/python/assets/110303643/b358c094-72b3-4d25-b586-165391108832)
-![8](https://github.com/denuwan-yasodhana/python/assets/110303643/cff2bd0f-508e-48a6-b76f-361552fd2ec1)
-![7](https://github.com/denuwan-yasodhana/python/assets/110303643/8c070c8b-4fb3-44fe-93a1-d793d3536b33)
-![6](https://github.com/denuwan-yasodhana/python/assets/110303643/bbe41a77-62e1-42b4-a962-40958d101767)
-![5](https://github.com/denuwan-yasodhana/python/assets/110303643/55033d98-2a74-42bf-94f5-a547164bbc02)
-![4](https://github.com/denuwan-yasodhana/python/assets/110303643/1ef79c07-b5b9-42d9-98f1-8e2a82eff20a)
-![3](https://github.com/denuwan-yasodhana/python/assets/110303643/e82285b1-6fe6-4f87-9e25-3fad08c51ed9)
-![2  Comment](https://github.com/denuwan-yasodhana/python/assets/110303643/0d851fa4-2686-4e47-93b9-5815f860c169)
-![1  Print](https://github.com/denuwan-yasodhana/python/assets/110303643/4749328d-7c07-4053-b2c9-82a7f45603fe)
-![39](https://github.com/denuwan-yasodhana/python/assets/110303643/a19f2b9b-a459-4c19-8237-98d831535d59)
-![38](https://github.com/denuwan-yasodhana/python/assets/110303643/ae7f0a61-6be2-4475-acff-cfbc8270413b)
-![37](https://github.com/denuwan-yasodhana/python/assets/110303643/cf404ea2-7adb-4a65-95d2-b7120bfe9faf)
-![36](https://github.com/denuwan-yasodhana/python/assets/110303643/c2d78c65-0bcf-40a4-aed2-4e0a46d9b4c6)
-![35](https://github.com/denuwan-yasodhana/python/assets/110303643/ff769392-ab32-4fa0-ae19-d7a5b632dfd7)
-![34](https://github.com/denuwan-yasodhana/python/assets/110303643/60b40975-cd49-4eb9-beb3-deff5ef9e09e)
-![33](https://github.com/denuwan-yasodhana/python/assets/110303643/8ca6dd34-b1a1-475e-b016-f2f9f2f125e6)
-![32](https://github.com/denuwan-yasodhana/python/assets/110303643/2c498158-5e9a-4c9d-b9f0-ce6a7f78200f)
-![31](https://github.com/denuwan-yasodhana/python/assets/110303643/a2ba088d-4676-4872-ab78-6438f3eb1989)
-![30](https://github.com/denuwan-yasodhana/python/assets/110303643/57e6dba5-094e-48d6-a2d1-d1c1d390998a)
-![29](https://github.com/denuwan-yasodhana/python/assets/110303643/29f43ece-5796-43e6-b6c0-dbf7c62b03c2)
-
+---
+## SciPy Cheat Sheet
+---
+![SciPy_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/3ce07122-e3e0-4a9f-919b-5027566da1dc)
