@@ -1,6 +1,6 @@
 # PYTHON - for everything
 ---
-## Basic knowledge 
+## *Basic knowledge*
 ---
 ![1  Print](https://github.com/denuwan-yasodhana/python/assets/110303643/2933d687-2806-44dd-be5d-55f67fc1e27c)
 ![2  Comment](https://github.com/denuwan-yasodhana/python/assets/110303643/125956dd-eba6-493d-825f-ce458d9dd46b)
@@ -44,26 +44,26 @@
 ![39](https://github.com/denuwan-yasodhana/python/assets/110303643/89e39cf8-d427-4d2f-aa6d-c13020a4382f)
 
 ---
-## Numpy Cheat Sheet
+## *Numpy Cheat Sheet*
 ---
 ![Numpy_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/cb19ed41-7303-4ed7-8c14-6088ece9251e)
 
 ---
-## Pandas Cheat Sheet
+## *Pandas Cheat Sheet*
 ---
 ![Pandas_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/100aa4f9-1d88-429e-8bff-3e0a398fdf83)
 
 ---
-## Matplotlib Cheat Sheet
+## *Matplotlib Cheat Sheet*
 ---
 ![Matplotlib_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/666a4894-019e-479e-8689-4c694224c5cc)
 
 ---
-## Data Wragling Cheat Sheet
+## *Data Wragling Cheat Sheet*
 ---
 ![Data_Wrangling_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/ef9ae4c3-363b-450a-8851-96a4e653ed8e)
 
 ---
-## SciPy Cheat Sheet
+## *SciPy Cheat Sheet*
 ---
 ![SciPy_Cheat_Sheet_page-0001](https://github.com/denuwan-yasodhana/python/assets/110303643/3ce07122-e3e0-4a9f-919b-5027566da1dc)
